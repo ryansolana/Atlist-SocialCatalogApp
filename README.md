@@ -1,4 +1,4 @@
-## Atlist-SocialCatalogApp
+## Atlist Social Catalogging Application
 ### Social Cataloging Application for Movies, Shows, and Books
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
